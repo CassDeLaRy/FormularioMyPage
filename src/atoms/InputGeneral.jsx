@@ -1,5 +1,5 @@
 
-function InputGeneral({type, label, label2, placeholder, type2}) {
+function InputGeneral({type, label, label2, placeholder}) {
     return ( 
         <>
         <form>
