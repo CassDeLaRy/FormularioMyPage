@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/background.jpg");
+    font-family: 'Montserrat', sans-serif;
+}
+
+#inputGeneral{
+    text-align: center;    
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+}
